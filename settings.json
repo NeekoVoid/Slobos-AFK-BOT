@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GayAssServer-Xair.aternos.me:11365",
+    "ip": "GayAssServer-Xair.aternos.me",
     "port": 11365,
     "version": "26.2"
   },
